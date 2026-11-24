@@ -6,8 +6,8 @@
 import { mkdirSync, readFileSync, writeFileSync } from "node:fs";
 
 const APOLOGY =
-  "I'm sorry — I watered the cactus on the windowsill instead of the fern, and it sat in a puddle all afternoon.\n" +
-  "I've learned to match the plant to its tag before I lift the can, so from now on I read first, then I water.";
+  "I'm sorry — I watered your grandmother's orchid instead of the fern, and it spent the afternoon drowning in the wrong pot.\n" +
+  "I've learned to read the label before I lift the can, so from now on I photograph each tag first and water only what it names.";
 
 const OUTPUT_DIR = process.env.MAKEFUN_OUTPUT_DIR || "/output";
 
